@@ -1,4 +1,6 @@
 ---
+title: Orchard Computer Solutions
+description: A local solution to all your computing needs
 layout: default
 ---
 
