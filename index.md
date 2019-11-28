@@ -1,14 +1,17 @@
 ---
 layout: default
-description: Personal Website
 ---
 
-This is my personal website. It doesn't have much at the moment, but I'm gradually adding more content to it. I'll find more uses for it eventually and maybe get a proper domain too. At the moment you can **jump to the main pages using the buttons above**, or use the links below. There is also a **back button at the bottom of each page**.
+## Services offered
 
-* * *
+### [Repairs and upgrades](./repairsandupgrades/)
 
-## [View my projects](./projects)
+Whether it is a simple operating system update or replacing core components, I make it simple to pick out and perform upgrades on your existing computer.
 
-* * *
+### [Custom PC building and consultancy](./buildyourown/)
 
-## [About me](./about-me)
+Want your own computer but aren't satisfied by what is available to buy? I can help select the components, build, and then set up your computer to your exact specification, catering to almost any budget.
+
+### [Data recovery and transfer](./data/)
+
+For recovering lost data or transferring it to a different computer.
