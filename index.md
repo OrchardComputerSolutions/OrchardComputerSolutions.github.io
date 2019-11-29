@@ -4,6 +4,9 @@ description: A local solution to all your computing needs
 layout: default
 ---
 
+## I hope this website starts working soon
+
+
 ## Services offered
 
 ### [Repairs and upgrades](./repairsandupgrades/)
