@@ -11,8 +11,6 @@ Select or customise one of the below computers, or commission a build to your re
 
 ## Choose a pre-built system
 
-Technology moves at a fast pace, and these computers are built with the latest-generation* CPUs so that you can get the most out of them for a long time.
-
 All systems come with **Windows 10 pre-installed**.
 
 The following are additional components which, although not vital, you may wish to add. Without Wi-Fi, the computers will only be able to connect to the internet with an ethernet cable.
@@ -24,13 +22,16 @@ The following are additional components which, although not vital, you may wish 
 
 ### Office
 
-![Office Case](./images/office.png){:class="img-responsive"}
+![Office Case](./images/office.png){: .galleryThumb}
+
+Technology moves at a fast pace, and these computers are built with the latest-generation CPUs for speed, reliability, and longevity so that you can get the most out of them for a long time.
 
 All office systems are built in the case above, but you can choose the level of components inside. The prices stated are for the **tower and setup only**.
 
+
 #### Entry-level
 
- - Quad-core 4-thread CPU, 3.6 GHz
+ - Quad-core 4-thread CPU, 3.6 GHz (Ryzen 3 3200G)
  - 8 GB RAM
  - 1 TB Hard Drive (1000 GB)
 
@@ -38,7 +39,7 @@ All office systems are built in the case above, but you can choose the level of 
 
 #### Mid-range
 
- - Quad-core 8-thread CPU, 3.7 GHz
+ - Quad-core 8-thread CPU, 3.7 GHz (Ryzen 5 3400G)
  - 8 GB RAM
  - 120 GB Solid State Drive
  - 1 TB Hard Drive (1000 GB)
@@ -47,7 +48,7 @@ All office systems are built in the case above, but you can choose the level of 
 
 #### High-end
 
- - Quad-core 8-thread CPU, 3.7 GHz
+ - Quad-core 8-thread CPU, 3.7 GHz (Ryzen 5 3400G)
  - 16 GB RAM
  - 500 GB Solid State Drive
  - 1 TB Hard Drive (1000 GB)
@@ -56,7 +57,7 @@ All office systems are built in the case above, but you can choose the level of 
 
 ### Gaming
 
-![Gaming case](./images/gaming.png){:class="img-responsive"}
+![Gaming case](./images/gaming.png){: .galleryThumb}
 
 All gaming computers are built in the case above, but with the level of components you choose below. Due to the volatile nature of the graphics card market, the GPU and price are subject to change.
 
@@ -93,7 +94,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 ## Custom build
 
-Have a specific requirement in mind? [Contact me](../contact/) for a no-obligation consultation and quote, after which your computer can be assembled and set up.
+Have a specific requirement in mind? [Contact me](../contact/) for a no-obligation consultation and quote, after which your computer can be assembled and set up. Component compatibility is guaranteed.
 
 * * *
 
