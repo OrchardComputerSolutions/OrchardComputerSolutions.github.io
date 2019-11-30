@@ -19,16 +19,13 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" href="https://david-w-43.github.io/favicon.ico" />
+    <link rel="shortcut icon" href="https://www.orchardcomputersolutions.co.uk/favicon.ico" />
   </head>
   <body>
 
     <header class="page-header" role="banner">
       <a href="https://www.orchardcomputersolutions.co.uk/" class="btn">Home</a>
       <a href="https://www.orchardcomputersolutions.co.uk/contact/" class="btn">Contact</a>
-      <!--
-        <a href="https://david-w-43.github.io/about-me/" class="btn">About Me</a>
-      -->
 
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: siteW.description | default: site.title }}</h2>
