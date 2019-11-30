@@ -91,11 +91,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 ## Custom build
 
-Basic list of steps taken to build a computer
-
- - Consultancy - selecting components based on budget and requirements
- - Assembly - building a working system using the parts purchased
- - Setup - setting up software and transferring data if required
+Have a specific requirement in mind? Contact me for a no-obligation consultation and quote, after which your computer can be assembled and set up.
 
 * * *
 
