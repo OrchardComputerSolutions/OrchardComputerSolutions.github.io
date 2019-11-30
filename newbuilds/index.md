@@ -5,6 +5,8 @@ title: PC Building Services
 
 Select or customise one of the below computers, or commission a build to your requirements or exact specification.
 
+[**Get in contact**](../contact/) for more information or to make an order.
+
 * * *
 
 ## Choose a pre-built system
@@ -91,7 +93,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 ## Custom build
 
-Have a specific requirement in mind? Contact me for a no-obligation consultation and quote, after which your computer can be assembled and set up.
+Have a specific requirement in mind? [Contact me](../contact/) for a no-obligation consultation and quote, after which your computer can be assembled and set up.
 
 * * *
 
