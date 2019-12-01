@@ -22,7 +22,7 @@ The following are additional components which, although not vital, you may wish 
 
 ### Office
 
-![Office Case](./images/office.png){:width="50%"}
+![Office Case](./images/office.png){:width="33%"}
 
 Technology moves at a fast pace, and these computers are built with the latest-generation CPUs for speed, reliability, and longevity so that you can get the most out of them for a long time.
 
@@ -57,7 +57,7 @@ All office systems are built in the case above, but you can choose the level of 
 
 ### Gaming
 
-![Gaming case](./images/gaming.png){:width="50%"}
+![Gaming Case](./images/gaming.png){:width="33%"}
 
 All gaming computers are built in the case above, but with the level of components you choose below. Due to the volatile nature of the graphics card market, the GPU and price are subject to change.
 
