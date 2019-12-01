@@ -8,11 +8,11 @@ Local to the Waterlooville area, Orchard Computer Solutions is a small and indep
 
 ## Services offered
 
-### [Troubleshooting and assistance](./troubleshooting/)
+### [Troubleshooting and Assistance](./troubleshooting/)
 
 When your computer is being difficult it can be hard to find the source of the problem, and even harder to form a plan of action. Whether it is hardware or software, I can help solve any problem.
 
-### [Repairs and upgrades](./repairsandupgrades/)
+### [Repairs and Upgrades](./repairsandupgrades/)
 
 Running out of space? Performance not as good as it used to be? Whether it is a simple operating system update or replacing core components, I make it simple to pick out and perform upgrades on your existing computer.
 
@@ -20,6 +20,6 @@ Running out of space? Performance not as good as it used to be? Whether it is a 
 
 Need a new computer but aren't satisfied by what is available to buy? You can select from a range of systems, entry-level to high-end. Alternatively, for custom builds I can help select the components, build, and then set up your computer to your exact specification, catering to almost any budget.
 
-### [Data recovery and transfer](./data/)
+### [Data Recovery and Transfer](./data/)
 
 For recovering lost data, or transferring it to a different computer.
