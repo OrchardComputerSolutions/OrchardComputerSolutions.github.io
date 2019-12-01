@@ -12,7 +12,7 @@ All systems are **built to order**, and come with **Windows 10 pre-installed** u
 
 * * *
 
-## Choose a pre-built system
+# Choose a pre-built system
 
 The following are additional components which, although not vital, you may wish to add. Without Wi-Fi, the computers will only be able to connect to the internet with an ethernet cable.
 
@@ -21,7 +21,7 @@ The following are additional components which, although not vital, you may wish 
  - CD / DVD Drive (R/W) for **£18**
  - Various monitors available on request
 
-### Office
+## Office
 
 ![Office Case](./images/office.png){:width="33%"}
 
@@ -30,7 +30,7 @@ Technology moves at a fast pace, and all these computers are built with the late
 All office systems are built in the case above, but you can choose the level of components inside. The prices stated are for the **tower and setup only**.
 
 
-#### Entry-level
+### Entry-level
 
  - Quad-core 4-thread CPU, 3.6 GHz (Ryzen 3 3200G)
  - 8 GB RAM
@@ -38,7 +38,7 @@ All office systems are built in the case above, but you can choose the level of 
 
  Available for **£300**
 
-#### Mid-range
+### Mid-range
 
  - Quad-core 8-thread CPU, 3.7 GHz (Ryzen 5 3400G)
  - 8 GB RAM
@@ -47,7 +47,7 @@ All office systems are built in the case above, but you can choose the level of 
 
  Available for **£350**
 
-#### High-end
+### High-end
 
  - Quad-core 8-thread CPU, 3.7 GHz (Ryzen 5 3400G)
  - 16 GB RAM
@@ -56,13 +56,13 @@ All office systems are built in the case above, but you can choose the level of 
 
  Available for **£425**
 
-### Gaming
+## Gaming
 
 ![Gaming Case](./images/gaming.png){:width="33%"}
 
 All gaming computers are built in the case above, and with the level of components you choose below. Due to the volatile nature of the graphics card market, the GPU and price are subject to change. 
 
-#### Entry-level
+### Entry-level
 
  - Hex-core 12-thread CPU, 3.4 GHz, 3.9 GHz boost
  - GTX 1050 Ti GPU, 4 GB
@@ -71,7 +71,7 @@ All gaming computers are built in the case above, and with the level of componen
 
  Available for **£475**
 
-#### Mid-range
+### Mid-range
 
  - Hex-core 12-thread CPU, 3.4 GHz, 3.9 GHz boost
  - RX 5700 GPU, 8GB
@@ -81,7 +81,7 @@ All gaming computers are built in the case above, and with the level of componen
 
  Available for **£700**
 
-#### High-end
+### High-end
 
  - Hex-core 12-thread CPU, 3.8 GHz, 4.4 GHz boost
  - RTX 2080 SUPER GPU, 8GB
@@ -93,7 +93,7 @@ All gaming computers are built in the case above, and with the level of componen
 
 * * *
 
-## Custom build
+# Custom build
 
 Have a specific requirement in mind? [Contact me](../contact/) for a no-obligation consultation and quote, after which your computer can be assembled and set up. Component compatibility is guaranteed.
 

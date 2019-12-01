@@ -8,10 +8,10 @@ title: Services
  - Virus scanning and removal
  - Software updates
  - [Hardware repairs and upgrades](../repairsandupgrades)
- - Internet connectivity issues
- - [Data recovery](../data/)
- - [Data transfer](../data/)
- - [System building](../data/index.html#Custom%20build)
+ - Fixing internet connectivity issues
+ - [Data recovery](../data/index.html#Data%20Recovery)
+ - [Data transfer](../data/index.html#Data%20Transfer)
+ - [System building](../newbuilds/index.html#Custom%20build)
 
 * * *
 
