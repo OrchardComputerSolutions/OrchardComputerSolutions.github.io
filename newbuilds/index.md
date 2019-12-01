@@ -63,7 +63,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 #### Entry-level
 
- - Hex-core 12-thread CPU, 3.4 GHz (3.9 GHz boost)
+ - Hex-core 12-thread CPU, 3.4 GHz, 3.9 GHz boost
  - GTX 1050 Ti GPU, 4 GB
  - 8 GB RAM
  - 1 TB Hard Drive (1000 GB)
@@ -72,7 +72,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 #### Mid-range
 
- - Hex-core 12-thread CPU, 3.4 GHz (3.9 GHz boost)
+ - Hex-core 12-thread CPU, 3.4 GHz, 3.9 GHz boost
  - RX 5700 GPU, 8GB
  - 16 GB RAM
  - 1 TB Hard Drive (1000 GB)
@@ -82,7 +82,7 @@ All gaming computers are built in the case above, but with the level of componen
 
 #### High-end
 
- - Hex-core 12-thread CPU, 3.8 GHz (4.4 GHz boost)
+ - Hex-core 12-thread CPU, 3.8 GHz, 4.4 GHz boost
  - RTX 2080 SUPER GPU, 8GB
  - 16 GB RAM
  - 1 TB Hard Drive (1000 GB)
