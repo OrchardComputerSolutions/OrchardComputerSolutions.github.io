@@ -1,7 +1,7 @@
 ---
 title: Orchard Computer Solutions
 description: A local solution to all your computing needs
-layout: default
+layout: homepage
 ---
 
 Local to the Waterlooville area, Orchard Computer Solutions is a small and independent business aiming to deliver expertise with good value for money.
