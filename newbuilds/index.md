@@ -5,13 +5,14 @@ title: PC Building Services
 
 Select or customise one of the below computers, or commission a build to your requirements or exact specification.
 
+
+All systems are **built to order**, and come with **Windows 10 pre-installed** unless otherwise requested.
+
 [**Get in contact**](../contact/) for more information or to make an order.
 
 * * *
 
 ## Choose a pre-built system
-
-All systems come with **Windows 10 pre-installed**.
 
 The following are additional components which, although not vital, you may wish to add. Without Wi-Fi, the computers will only be able to connect to the internet with an ethernet cable.
 
@@ -24,7 +25,7 @@ The following are additional components which, although not vital, you may wish 
 
 ![Office Case](./images/office.png){:width="33%"}
 
-Technology moves at a fast pace, and these computers are built with the latest-generation CPUs for speed, reliability, and longevity so that you can get the most out of them for a long time.
+Technology moves at a fast pace, and all these computers are built with the latest-generation CPUs for speed, reliability, and longevity so that you can get the most out of them for a long time.
 
 All office systems are built in the case above, but you can choose the level of components inside. The prices stated are for the **tower and setup only**.
 
@@ -59,7 +60,7 @@ All office systems are built in the case above, but you can choose the level of 
 
 ![Gaming Case](./images/gaming.png){:width="33%"}
 
-All gaming computers are built in the case above, but with the level of components you choose below. Due to the volatile nature of the graphics card market, the GPU and price are subject to change.
+All gaming computers are built in the case above, and with the level of components you choose below. Due to the volatile nature of the graphics card market, the GPU and price are subject to change. 
 
 #### Entry-level
 
@@ -95,10 +96,6 @@ All gaming computers are built in the case above, but with the level of componen
 ## Custom build
 
 Have a specific requirement in mind? [Contact me](../contact/) for a no-obligation consultation and quote, after which your computer can be assembled and set up. Component compatibility is guaranteed.
-
-* * *
-
-\* Apart from the entry-level and mid-range gaming computers, which uses a previous generation CPU
 
 * * *
 
