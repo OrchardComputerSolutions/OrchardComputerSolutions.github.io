@@ -127,15 +127,14 @@ a {
 }
 
 .logo {
-  margin-right: 66%;
-  max-width: 100%;
+  float: left;
+  max-width: 128px;
   height: auto;
 }
 
 .website-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  margin-left: 33%;
 
   @include large {
     font-size: 3.25rem;
