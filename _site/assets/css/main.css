@@ -1325,7 +1325,7 @@ section, article {
   section .row, article .row {
     margin-top: 40px; }
   section .row > *, article .row > * {
-    padding-top: 0; }
+    padding-top: 10px; }
   section ul, section ol, article ul, article ol {
     padding-left: 0.25em;
     margin-left: 1.25em; }
