@@ -1,16 +1,7 @@
 ---
-layout: default
-title: Data Recovery and Transfer 
+title: Data Services
+subtitle: Data Recovery and Transfer
+layout: home
+icon: fa-hdd
+order: 3
 ---
-
-# Data Recovery
-
-Data recovery from internal and external drives.
-
-# Data Transfer
-
-Transfer of files to and from different computers
-
-* * *
-
-## [back](../)
